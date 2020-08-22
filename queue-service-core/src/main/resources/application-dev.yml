@@ -1,0 +1,5 @@
+pastelpunk:
+
+  queueConfiguration:
+    connectionString: DefaultEndpointsProtocol=https;AccountName=cs210032000c9ce1940;AccountKey=ju8046GC6MSFKoN8UMMKM8IqLqYu2y8iCKsWuzKwJYkbZrCQImoguEBmDvIl5DF5KH0Znnnzi+tPmtBPgYbqGQ==;EndpointSuffix=core.windows.net
+    retries: 3
